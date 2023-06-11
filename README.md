@@ -1,7 +1,7 @@
 # Youtube自動投稿プログラム
 
 ## 説明
-YouTube Data API v3を使用して作成した動画をYouTubeへ自動投稿してくれる。<br>
+YouTube Data API v3を使用してAutoClippingAppで作成した動画をYouTubeへ自動投稿してくれるプログラム。<br>
 事前にGCPからOAuth 2.0とYouTube Data APIの登録が必要。<br>
 プログラムを実行すると、以下の処理で自動投稿が始まる。
 
