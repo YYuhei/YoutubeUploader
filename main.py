@@ -27,7 +27,7 @@ THUMBNAIL_PATH = (
     "../AutoClippingApp/thumbnail/" + DOWNLOADDAY.strftime("%Y%m%d") + "_thumbnail.png"
 )
 THUMBNAIL_FULL_PATH = (
-    "C:/Users/yuhei/Documents/PythonApp/AutoClippingApp/thumbnail/"
+    "XXXXXXXX"
     + DOWNLOADDAY.strftime("%Y%m%d")
     + "_thumbnail.png"
 )
