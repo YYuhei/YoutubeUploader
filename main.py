@@ -14,7 +14,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 
 # チャンネルID
-CHANNEL_ID = "XXXX"
+CHANNEL_ID = "UC4ltz3sODak7BeyZF_AdZ-A"
 
 # アップロードする動画ファイルのパス
 TODAY = datetime.date.today()
@@ -53,7 +53,7 @@ MAX_THUMBNAIL_SIZE = 1 * 1024 * 1024  # 1MB
 
 # サムネイルフォルダのパス
 THUMBNAIL_FOLDER_PATH = (
-    "XXXXXX"
+    "C:\\Users\\yuhei\\Documents\\PythonApp\\AutoClippingApp\\thumbnail"
 )
 
 
